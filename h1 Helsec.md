@@ -1,5 +1,32 @@
 # a) Helsec presentation
 
+Helsec presentation. What the BEC II - Invoice fraud and how it is done in the corporate world. by Elias Alanko
+
+Basically, Business Email Compromise (BEC) has two key categories: CEO fraud and invoice fraud. These are sometimes get mixed by journalists.
+
+Generally BRC: s are made because it works. Criminals have learned that this is way to make money.
+BRC: s have been here for long time. I remember getting my first BRC over 20 years ago.
+
+Pre-texting is something where story is made. Its pretty new term and its based on plishing. In plishing is point to get credentials.
+Websites e.g. LinkedIn is good place to find details for story.
+My formed employer was strict about privacy so I could not made LinkedIn profile at all.
+
+In KPMG case request has been sent to security team from accounts because invoice number was wrong.
+What if invoice number could have been right? Or what if there has not been security team.
+I have worked at financial administration about 2 decades. I have notices that accountants are often helpful by nature, so I think would be possible for them to assist criminals e.g. getting right invoice numbers.
+
+Controls are for example related to technical, educational, processional and insurance.
+I have noticed that often when organization is planning financial controls main focus is often to "what if one of us is the criminal", not so much of thinking that criminals could come from outside.
+
+If you want to act against BEC: s, teach but not just "don’t click links". To use real life scenarios could be useful. Contact to security teams should be made at low threshold.
+Acting is quite much matter of processes. For example, bank account number is not changed often. There also should be procedures that actions should not be done just alone.
+It’s also much of lack of communication in organization.
+
+Organizations in USA tends to use much controls.
+
+There are also cyber insurances, but tolerances should be high enough. 
+
+Have organizations learned? At least not enough.
 
 # b) Gandalf
 
