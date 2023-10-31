@@ -63,7 +63,9 @@ Then I ended.
 c)
 So what, Gandalf? What does hacking Gandalf tell you about AI security? Is there a bigger picture here? Can you find sources that discuss this problem?
 
-At least this told me that AI security 
+At least this told me that AI security is layered. Security model has to think multiple choices.
+
+With Gandalf one could for example to learn prompting skills.
 
 Sources:
 https://www.howtogeek.com/159128/the-gandalf-game-tests-your-ability-to-phish-an-ai/
