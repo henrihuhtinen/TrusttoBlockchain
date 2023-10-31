@@ -1,7 +1,7 @@
-a)
+# a)
 
 
-b)
+# b)
 
 I started by entering address: https://gandalf.lakera.ai/
 
@@ -60,7 +60,7 @@ Analysis: I tried to do it other words
 
 Then I ended.
 
-c)
+# c)
 So what, Gandalf? What does hacking Gandalf tell you about AI security? Is there a bigger picture here? Can you find sources that discuss this problem?
 
 At least this told me that AI security is layered. Security model has to think multiple choices.
