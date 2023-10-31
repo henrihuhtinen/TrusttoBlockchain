@@ -9,7 +9,7 @@ BRC: s have been here for long time. I remember getting my first BRC over 20 yea
 
 Pre-texting is something where story is made. Its pretty new term and its based on plishing. In plishing is point to get credentials.
 Websites e.g. LinkedIn is good place to find details for story.
-Some employers could be strict about privacy so.
+Some employers could be strict about privacy.
 
 In KPMG case request has been sent to security team from accounts because invoice number was wrong.
 What if invoice number could have been right? Or what if there has not been security team.
