@@ -13,7 +13,7 @@ My formed employer was strict about privacy so I could not made LinkedIn profile
 
 In KPMG case request has been sent to security team from accounts because invoice number was wrong.
 What if invoice number could have been right? Or what if there has not been security team.
-I have worked at financial administration about 2 decades. I have notices that accountants are often helpful by nature, so I think would be possible for them to assist criminals e.g. getting right invoice numbers.
+I have worked at financial administration about 2 decades. I have noticed that accountants are often helpful by nature, so I think would be possible for them to assist criminals e.g. getting right invoice numbers.
 
 Controls are for example related to technical, educational, processional and insurance.
 I have noticed that often when organization is planning financial controls main focus is often to "what if one of us is the criminal", not so much of thinking that criminals could come from outside.
