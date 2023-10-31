@@ -1,7 +1,5 @@
 # a) Helsec presentation
 
-Based on: Helsec presentation. What the BEC II - Invoice fraud and how it is done in the corporate world. by Elias Alanko
-
 Basically, Business Email Compromise (BEC) has two key categories: CEO fraud and invoice fraud. These are sometimes get mixed by journalists.
 
 Generally BRC: s are made because it works. Criminals have learned that this is way to make money.
@@ -27,6 +25,10 @@ Organizations in USA tends to use much controls.
 There are also cyber insurances, but tolerances should be high enough. 
 
 Have organizations learned? At least not enough.
+
+# Reference
+
+HelSec Meetup. Presentation: What the BEC II - Invoice fraud and how it is done in the corporate world. by Elias Alanko
 
 # b) Gandalf
 
