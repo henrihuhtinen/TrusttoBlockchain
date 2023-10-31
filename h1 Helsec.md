@@ -1,4 +1,4 @@
-## a) Helsec presentation
+# a) Helsec presentation
 
 Basically, Business Email Compromise (BEC) has two key categories: CEO fraud and invoice fraud. These are sometimes get mixed by journalists.
 
@@ -26,11 +26,11 @@ There are also cyber insurances, but tolerances should be high enough.
 
 Have organizations learned? At least not enough.
 
-# Reference
+## Reference
 
 HelSec Meetup. Presentation: What the BEC II - Invoice fraud and how it is done in the corporate world. by Elias Alanko
 
-## b) Gandalf
+# b) Gandalf
 
 I started by entering address: https://gandalf.lakera.ai/
 
@@ -89,7 +89,7 @@ Analysis: I tried to do it other words
 
 Then I ended.
 
-## c) So what, Gandalf? What does hacking Gandalf tell you about AI security? Is there a bigger picture here? Can you find sources that discuss this problem?
+# c) So what, Gandalf? What does hacking Gandalf tell you about AI security? Is there a bigger picture here? Can you find sources that discuss this problem?
 
 At least this told me that AI security is layered. Security model has to think multiple choices.
 
